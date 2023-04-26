@@ -7,7 +7,7 @@ Scripts for downloading statements/settlements receipts in bulk from Klarna's we
   3) Files will download.
 
 ## Contents
-- `klarna_download_settlement_pdfs_new.js`: Download PDF Settlement Statements from Klarna's useless new website, when they refuse to give you API keys.
+- `klarna_download_settlement_pdfs_new.js`: Download PDF Settlement Statements from Klarna's new website, when they refuse to give you API keys.
    Simply search for any range you want, then run this script in the console, and it will download each individual settlement statement as a PDF. 
    Goodluck with bookkeeping!
 
